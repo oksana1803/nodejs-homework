@@ -1,0 +1,39 @@
+.header {
+    height: 50px;
+    background-color: #DCDCDC;
+    border: 1px solid;
+    border-color: black;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container div{
+    width: 250px;
+    height: 500px;
+    background-color: #DCDCDC;
+    border: 1px solid;
+    border-color: black;
+}
+
+.footer {
+    height: 50px;
+    background-color: #DCDCDC;
+    border: 1px solid;
+    border-color: black;
+}
+
+.list {
+    margin-right: 900px;
+    color: #696969;
+    font-size: 30px;
+    font-family: sans-serif;
+    
+}
+
+
+
